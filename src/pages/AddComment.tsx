@@ -52,3 +52,5 @@ const AddComment = () => {
 };
 
 export default AddComment;
+
+//Sé que debo tener un estado para cada dato que voy a reemplazar, debo crear un elemento nuevo basado en el tipado y luego vaciar cada elemento para que se reemplace por el nuevo ingresado y usar el dispatch para mandar la acción por parte del slice. 
